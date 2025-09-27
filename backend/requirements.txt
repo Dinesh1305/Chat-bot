@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+langchain-core
+langgraph
+openai  # Or groq, anthropic, etc., for your LLM
+python-dotenv
+httpx   # For the Streamlit frontend's async requests
